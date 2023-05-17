@@ -1,0 +1,6 @@
+export const ADD_USERS = 'ADD_USERS';
+export const UPDATE_USERS = 'UPDATE_USERS';
+export const DELETE_USERS = 'DELETE_USERS';
+export const REMOVEMULTIPLE_USERS = 'REMOVEMULTIPLE_USERS';
+export const SET_ALL_USERS = 'SET_ALL_USERS';
+export const SET_SENDER_ID = 'SET_SENDER_ID';
